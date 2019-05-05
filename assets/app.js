@@ -2,7 +2,7 @@
 
 /*way #1*/
 
-    function square(number) {
+/*    function square(number) {
 
       return number * number;
 
@@ -15,7 +15,7 @@
 
 /*way #2 */
 
-    var someVar = "Hat";
+/*    var someVar = "Hat";
 
     function myFun() {
 
@@ -71,11 +71,11 @@
 
     
 
-    function name(parameters){
+  /*  function name(parameters){
 
       statements
 
-    }
+    } */
 
     
     
